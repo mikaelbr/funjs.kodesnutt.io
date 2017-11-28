@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kodesnutt</title>
+  
+  <subtitle>Funksjonell JavaScript 101</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://funjs.kodesnutt.io/"/>
+  <updated>2017-11-27T12:53:01.000Z</updated>
+  <id>https://funjs.kodesnutt.io/</id>
+  
+  <author>
+    <name>Mikael Brevik</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Reduce, filter og map</title>
+    <link href="https://funjs.kodesnutt.io/2017/11/27/02-Reduce-filter-og-map/"/>
+    <id>https://funjs.kodesnutt.io/2017/11/27/02-Reduce-filter-og-map/</id>
+    <published>2017-11-27T12:47:13.000Z</published>
+    <updated>2017-11-27T12:53:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Vi ser mer på første klasses høyere ordens funksjoner og ser på hvordan map, filter og reduce fungerer ved å implementere de selv.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Vi ser mer på første klasses høyere ordens funksjoner og ser på hvordan map, filter og reduce fungerer ved å implementere de selv.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Førsteklasses og høyere ordens funksjoner</title>
+    <link href="https://funjs.kodesnutt.io/2017/11/27/01-Forsteklasses-og-hoyere-ordens-funksjoner/"/>
+    <id>https://funjs.kodesnutt.io/2017/11/27/01-Forsteklasses-og-hoyere-ordens-funksjoner/</id>
+    <published>2017-11-27T11:49:38.000Z</published>
+    <updated>2017-11-27T12:41:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Vi ser på egenskaper til JavaScript-funksjoner. Hva er forskjellen på expressions og declarations? Hva betyr første klasses funksjoner? Eller hva er høyere ordens egenskaper?</p><p>Vi skal etterhvert se at fleksibiliteten til JavaScript-funksjoner er nøkkelen til denne serien.</p><a id="more"></a><hr><p>Les mer om forskjellen på function declarations og expressions i artikkelen: <a href="https://blogg.bekk.no/function-creation-in-detail-9d5e754afce4" rel="external nofollow noopener noreferrer" target="_blank">Function Creation in Detail</a>.</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Vi ser på egenskaper til JavaScript-funksjoner. Hva er forskjellen på expressions og declarations? Hva betyr første klasses funksjoner? Eller hva er høyere ordens egenskaper?&lt;/p&gt;
+&lt;p&gt;Vi skal etterhvert se at fleksibiliteten til JavaScript-funksjoner er nøkkelen til denne serien.&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
